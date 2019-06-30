@@ -124,7 +124,7 @@ PRODUCT_PACKAGES += \
 
 # Doze
 PRODUCT_PACKAGES += \
-    XiaomiDoze
+    Doze
 
 # Sensors
 PRODUCT_PACKAGES += \
