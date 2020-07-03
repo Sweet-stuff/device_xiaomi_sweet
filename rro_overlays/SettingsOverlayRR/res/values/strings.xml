@@ -19,4 +19,7 @@
     <string name="peak_refresh_rate_summary">Automatically raises the refresh rate from 60 to 120 Hz for some content. Increases battery usage.</string>
     <!-- Display developer settings: Force to the highest refresh rate [CHAR LIMIT=NONE] -->
     <string name="force_high_refresh_rate_toggle">Force 120 Hz refresh rate</string>
+
+    <!-- Device specific doze package -->
+    <string name="config_customDozePackage">org.lineageos.settings.doze/org.lineageos.settings.doze.DozeSettingsActivity</string>
 </resources>
