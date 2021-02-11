@@ -16,7 +16,8 @@ PRODUCT_PACKAGES += \
     CarrierConfigResSweet \
     FrameworksResSweet \
     SystemUIResSweet \
-    TelephonyResSweet
+    TelephonyResSweet \
+    WifiOverlay
 
 # Ramdisk
 PRODUCT_PACKAGES += \
