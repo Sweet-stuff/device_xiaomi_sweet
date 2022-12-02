@@ -12,7 +12,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_title">Sweet Parts</string>
+    <string name="device_settings_title">Sweet Lab</string>
     <string name="device_settings_summary">Customize specific aspects of sweet</string>
 
     <string name="refresh_rate_title">Refresh rate</string>
