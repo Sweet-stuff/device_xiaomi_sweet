@@ -278,11 +278,14 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    CarrierConfigResSweet \
-    FrameworksResSweet \
-    SettingsResSweet \
-    SystemUIResSweet \
-    TelephonyResSweet \
+    CarrierConfigOverlay \
+    DialerOverlay \
+    SweetFrameworks \
+    SweetSettings \
+    SweetSettingsProvider \
+    SweetSystemUI \
+    TelephonyOverlay \
+    TetheringConfigOverlay \
     WifiOverlay
 
 # Perf
